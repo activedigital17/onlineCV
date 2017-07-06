@@ -275,24 +275,25 @@ padding-top: 20px;
                     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
                     <li data-target="#myCarousel" data-slide-to="1"></li>
                     <li data-target="#myCarousel" data-slide-to="2"></li>
+                    <li data-target="#myCarousel" data-slide-to="3"></li>
                    
                   </ol>
 
                   <!-- Wrapper for slides -->
                   <div class="carousel-inner" role="listbox">
                     <div class="item active">
-                      <img src="/jobs.jpg" alt="#">
+                      <img src="jobs.jpg" alt="">
                     </div>
                     <div class="item">
-                      <img src="/movie.jpg" alt="#">
+                      <img src="movie.jpg" alt="">
                     </div>
 
                     <div class="item text-center">
-                      <img src="/krizic.jpg" width="300px" alt="#" text-center>
+                      <img src="krizic.jpg" width="300px" alt="" text-center>
                     </div>
 
                     <div class="item">
-                      <img src="/slika.jpg" alt="#">
+                      <img src="slika.jpg" alt="#>
                     </div>
 
                     
